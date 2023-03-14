@@ -26,7 +26,7 @@
 
 
 ### **Contact me via:**
-> <a href="https://github.com/Wakunza" target="_blank">**GitHub**</a> 
+> <a href="https://github.com/Wakunza" target="_blank">**GitHub**</a>  
 > <a href="https://www.linkedin.com/in/brettalberts/" target="_blank">**LinkedIn**</a>  
 > <a href="albertsbrett@gmail.com"> **albertsbrett@gmail.com** </a>  
 
