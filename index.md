@@ -1,11 +1,12 @@
 # Hey, I'm *Brett*.
+I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to give Python another shot! 🙃  
 
 <img src="Brett.jpg" width="275" height="275">
 
 > 
 > ### Insert biographical paragraph here
 > 
-> I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to give Python another shot! 🙃
+
 
 ## Education:
 #### Current: 
