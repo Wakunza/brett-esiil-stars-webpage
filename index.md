@@ -1,9 +1,11 @@
 
 # Hey, I'm **Brett**. ✌🏼
 
-
-> **Env. Science & Research (B.S.)**
+## 🎓
+> Currently: Senior in **Env. Science & Research (B.S.)** at UTTC.
+> Past: A.S. Pre-Engineering | A.A.S. Computer Info. Technology
 > **Hobbies:** Videogames. Cars. Fitness (🏋🏼‍♂️and 🛼). Tending to my 🐈, *Mittens*. 
+> 
 
 
 ## **Contact me via:**
