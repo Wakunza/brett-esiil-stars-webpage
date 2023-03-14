@@ -1,5 +1,7 @@
 
 # Hey, I'm **Brett**.
+Senior: B.S. Env. Science & Research | Hobbies:
+
 
 ## **Contact me:**
 > **email:** albertsbrett@gmail.com  
