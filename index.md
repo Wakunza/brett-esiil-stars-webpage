@@ -1,6 +1,6 @@
 # Hey, I'm *Brett*. 
 > *Past intern, current mentor, excited to give Python another shot! 🙃*
-> <p style="text-align:center">Center this text!</p>
+
 ___
 
 > <img src="Brett.jpg" width="275" height="275">
