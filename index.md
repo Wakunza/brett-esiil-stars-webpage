@@ -1,5 +1,5 @@
 
->> Hey, I'm **Brett**.
+# Hey, I'm **Brett**.
 > ### Headshot here
 > 
 > ### Insert biographical paragraph here
