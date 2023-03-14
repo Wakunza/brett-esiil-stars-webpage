@@ -8,7 +8,7 @@ ___
 > Insert biographical paragraph here
 >
 
-___
+
 
 ## Education
 >Current: 
