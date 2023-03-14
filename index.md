@@ -1,11 +1,10 @@
 
-# Hey, I'm **Brett**.
-
-> #### Headshot here
+>> Hey, I'm **Brett**.
+> ### Headshot here
 > 
-> #### Insert biographical paragraph here
+> ### Insert biographical paragraph here
 > 
-> I'm a past ESIIL Stars intern, back this year as a mentor, and I'm excited to give Python another shot! 🙃
+> I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to give Python another shot! 🙃
 
 ## Education:
 > Current: 
