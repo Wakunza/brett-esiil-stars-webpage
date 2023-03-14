@@ -4,8 +4,8 @@ ___
 <img src="Brett.jpg" width="275" height="275">
 > 
 > ### Insert biographical paragraph here
-> 
 ___
+
 ## Education:
 #### Current: 
 > - Senior in **Env. Science & Research B.S.** at United Tribes Technical College.
