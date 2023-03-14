@@ -11,7 +11,7 @@
 #### Current: 
 > - Senior in **Env. Science & Research B.S.** at United Tribes Technical College.
 
-#### 2019 
+#### Graduate of:
 > - Pre-Engineering A.S. 
 > - Computer Info. Technology A.A.S.
 
