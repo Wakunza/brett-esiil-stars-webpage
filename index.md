@@ -26,6 +26,7 @@
 
 
 ### **Contact me via:**
-> <a href="https://github.com/Wakunza" target="_blank">**GitHub**</a>  
-> email: <a href="albertsbrett@gmail.com"> **albertsbrett@gmail.com** </a>  
-> call/text: **701-220-6305**  
+> <a href="https://github.com/Wakunza" target="_blank">**GitHub**</a> 
+> <a href="https://www.linkedin.com/in/brettalberts/" target="_blank">**LinkedIn**</a>  
+> <a href="albertsbrett@gmail.com"> **albertsbrett@gmail.com** </a>  
+
