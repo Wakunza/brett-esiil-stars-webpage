@@ -1,5 +1,5 @@
 ## Hey, I'm *Brett*.
-<center>I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to give Python another shot! 🙃 </center>  
+### *I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to give Python another shot! 🙃*
 
 ___
 
