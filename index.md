@@ -1,5 +1,5 @@
 # Hey, I'm *Brett*.
-> <img src="Brett.jpg">
+> <img src="Brett.jpg" width="325" height="325">
 > 
 > ### Insert biographical paragraph here
 > 
