@@ -1,4 +1,10 @@
 
-## Hey, I'm **Brett**.
+# Hey, I'm **Brett**.
 
-> <p>Paragraph</p>
+## **Contact me:**
+> <p>
+  
+  **email:** albertsbrett@gmail.com
+  **call/text:** 701-220-6305
+  
+  </p>
