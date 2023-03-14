@@ -1,7 +1,7 @@
 
 # Hey, I'm **Brett**.
 
-# Education:
+## Education:
 > Current: 
 > - Senior in **Env. Science & Research (B.S.)** at UTTC.
 > 
@@ -9,13 +9,13 @@
 > - A.S. Pre-Engineering
 > - A.A.S. Computer Info. Technology
 
-# Hobbies:
+## Hobbies:
 > - Videogames. 
 > - Cars. 
 > - Fitness (🏋🏼‍♂️and 🛼). 
 > - Tending to my 🐈, *Mittens*. 
 
 
-## **Contact me via:**
+### **Contact me via:**
 > **email:** albertsbrett@gmail.com  
 > **call/text:** 701-220-6305  
