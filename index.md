@@ -9,7 +9,7 @@ ___
 > Insert biographical paragraph here
 >
 
-
+---
 
 ## *Education*
 >Current: 
