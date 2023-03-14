@@ -8,10 +8,10 @@
 > I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to give Python another shot! 🙃
 
 ## Education:
-> Current: 
+Current: 
 > - Senior in **Env. Science & Research B.S.** at United Tribes Technical College.
 
-> Past: 
+Background: 
 > - Pre-Engineering A.S.
 > - Computer Info. Technology A.A.S.
 
