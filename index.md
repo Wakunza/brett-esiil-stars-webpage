@@ -1,13 +1,17 @@
 
 # Hey, I'm **Brett**.
 
+>Headshot here
 
 > 
 > Biographical paragraph here. (later)
 > 
 
 > As a past ESIIL Stars intern, I'm excited to help in any way I can to those who are new!
-> I'm also excited to give Python another shot!
+> 
+> I'm excited to give Python another shot! 🙃
+>
+> <insert> Questions that you’d like to answer using Earth Data Science here
 
 ## Education:
 > Current: 
