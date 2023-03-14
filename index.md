@@ -1,6 +1,6 @@
 # Hey, I'm *Brett*.
 
-<img src="Brett.jpg" width="325" height="325">
+<img src="Brett.jpg" width="275" height="275">
 
 > 
 > ### Insert biographical paragraph here
@@ -17,10 +17,11 @@
 
 
 ## Hobbies:
-> - Videogames. 
-> - Cars. 
-> - Fitness (🏋🏼‍♂️and 🛼). 
-> - Tending to my 🐈, *Mittens*. 
+> - Videogames
+> - Cars
+> - Fitness (🏋🏼‍♂️and 🛼)
+> - Anime
+> - Tending to my 🐈, *Mittens*
 
 
 
