@@ -3,11 +3,11 @@
 
 ## Education:
 > Current: 
-> - Senior in **Env. Science & Research (B.S.)** at UTTC.
+> - Senior in **Env. Science & Research B.S.** at UTTC.
 > 
 > Past: 
-> - A.S. Pre-Engineering
-> - A.A.S. Computer Info. Technology
+> - Pre-Engineering A.S.
+> - Computer Info. Technology A.A.S.
 
 ## Hobbies:
 > - Videogames. 
