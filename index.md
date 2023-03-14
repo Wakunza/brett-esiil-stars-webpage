@@ -1,11 +1,13 @@
 
 # Hey, I'm **Brett**.
 
-> As a past ESIIL Stars intern, I'm excited to help in any way I can to those who are new!
+
 > 
 > Biographical paragraph here. (later)
 > 
 
+> As a past ESIIL Stars intern, I'm excited to help in any way I can to those who are new!
+>> I'm also excited to give Python another shot!
 
 ## Education:
 > Current: 
