@@ -1,4 +1,4 @@
-# Hey, I'm *Brett*.
+## Hey, I'm *Brett*.
 I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to give Python another shot! 🙃  
 ___
 
@@ -29,7 +29,7 @@ ___
 
 ___
 
-### *Contact me via:*
+### *Contact me via*
 > <a href="https://github.com/Wakunza" target="_blank">**GitHub**</a>  
 > <a href="https://www.linkedin.com/in/brettalberts/" target="_blank">**LinkedIn**</a>  
 > <a href="albertsbrett@gmail.com"> **albertsbrett@gmail.com** </a>  
