@@ -26,7 +26,7 @@ ___
 > - Fitness (🏋🏼‍♂️and 🛼)
 > - Anime
 > - Tending to my 🐈, *Mittens*
-> <img src="Mittens.jpg"> 
+> <img src="Mittens.jpg" width="175" height="275"> 
 
 ___
 
