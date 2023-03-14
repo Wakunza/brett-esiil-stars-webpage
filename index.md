@@ -7,6 +7,7 @@ I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to g
 > ### Insert biographical paragraph here
 > 
 
+___
 
 ## Education:
 #### Current: 
@@ -16,6 +17,7 @@ I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to g
 > - Pre-Engineering A.S. 
 > - Computer Info. Technology A.A.S.
 
+___
 
 ## Hobbies:
 > - Videogames
@@ -24,7 +26,7 @@ I am a past ESIIL Stars intern, back this year as a mentor, and I'm excited to g
 > - Anime
 > - Tending to my 🐈, *Mittens*
 
-
+___
 
 ### **Contact me via:**
 > <a href="https://github.com/Wakunza" target="_blank">**GitHub**</a>  
