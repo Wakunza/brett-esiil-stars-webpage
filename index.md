@@ -1,12 +1,13 @@
-### Hey, I'm *Brett*. *Past intern, current mentor, excited to give Python another shot! 🙃*
+### Hey, I'm *Brett*. 
+> *Past intern, current mentor, excited to give Python another shot! 🙃*
 
 ___
 
-<img src="Brett.jpg" width="275" height="275">
+> <img src="Brett.jpg" width="275" height="275">
 
- Insert biographical paragraph here
+> Insert biographical paragraph here
 
----
+___
 
 ## *Education*
 >Current: 
