@@ -25,5 +25,5 @@
 
 
 ### **Contact me via:**
-> **email:** albertsbrett@gmail.com  
+> **email:** <a href="albertsbrett@gmail.com">AlbertsBrett@Gmail.com</a>
 > **call/text:** 701-220-6305  
