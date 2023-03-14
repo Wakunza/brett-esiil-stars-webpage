@@ -4,7 +4,7 @@
 
 ___
 
-> <img class="center" src="Brett.jpg" width="275" height="275"> 
+> <img src="Brett.jpg" width="275" height="275"> 
 > 
 > Insert biographical paragraph here
 
