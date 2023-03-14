@@ -1,4 +1,4 @@
-### Hey, I'm *Brett*. 
+# Hey, I'm *Brett*. 
 > *Past intern, current mentor, excited to give Python another shot! 🙃*
 
 ___
