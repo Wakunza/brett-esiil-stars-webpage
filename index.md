@@ -1,7 +1,10 @@
 
 # Hey, I'm **Brett**.
+
 > As a past ESIIL Stars intern, I'm excited to help in any way I can to those who are new!
+> 
 > Biographical paragraph here. (later)
+> 
 
 
 ## Education:
