@@ -7,7 +7,7 @@ ___
 > 
 ___
 
-## Education:
+## Education
 Current: 
 > - Senior in **Env. Science & Research B.S.** at United Tribes Technical College.
 
@@ -15,7 +15,7 @@ Graduate of:
 > - Pre-Engineering A.S. 
 > - Computer Info. Technology A.A.S.
 
-## Hobbies:
+## Hobbies
 > - Videogames
 > - Cars
 > - Fitness (🏋🏼‍♂️and 🛼)
