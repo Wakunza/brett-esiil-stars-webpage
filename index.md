@@ -1,6 +1,6 @@
 
 # Hey, I'm **Brett**.
-<center> **Env. Science & Research (B.S.)** | **Hobbies:** Videogames, Cars, Fitness (Lifting and Rollerblading) </center>
+**Env. Science & Research (B.S.)** | **Hobbies:** Videogames, Cars, Fitness (Lifting and Rollerblading)
 
 
 ## **Contact me:**
