@@ -1,6 +1,6 @@
 
 # Hey, I'm **Brett**.
-Senior: B.S. Env. Science & Research | Hobbies:
+Senior in Env. Science & Research (B.S.)  |  Hobbies:
 
 
 ## **Contact me:**
