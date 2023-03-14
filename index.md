@@ -10,7 +10,7 @@
 ## Education:
 > Current: 
 > - Senior in **Env. Science & Research B.S.** at United Tribes Technical College.
-> 
+
 > Past: 
 > - Pre-Engineering A.S.
 > - Computer Info. Technology A.A.S.
