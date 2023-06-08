@@ -18,12 +18,12 @@ Past:
 ___
 
 ## *Hobbies*
-> - Videogames
-> - Cars
-> - Fitness (🏋🏼‍♂️and 🛼)
-> - Anime
-> - Tending to my 🐈, *Mittens*  
-> 
+- Videogames
+- Cars
+- Fitness (🏋🏼‍♂️and 🛼)
+- Anime
+- Tending to my 🐈, *Mittens*  
+
 > <img src="Mittens.jpg" width="175" height="275"> 
 
 ___
