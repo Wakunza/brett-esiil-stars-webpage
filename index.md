@@ -4,13 +4,14 @@
 
 ___
 
-## *Education*
->Current: 
-> - Senior in **Env. Science & Research B.S.** at United Tribes Technical College.
+## *Education & Experience*
+>Currently: 
+Working as a Biological Technician at USDA-ARS in Mandan, North Dakota.
 >
 >Graduate of:
-> - Pre-Engineering A.S. 
-> - Computer Info. Technology A.A.S.
+A.S. Pre-Engineering 
+A.A.S. Computer Info. Technology
+B.S. Environmental Science and Research
 
 ___
 
