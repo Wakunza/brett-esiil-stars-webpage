@@ -4,7 +4,6 @@
 Past intern, current mentor, excited to give Python another shot! 
 🙃
 ___
-
 ## *Education & Experience*
 Currently: 
 - Biological Technician at USDA-ARS in Mandan, North Dakota.
@@ -14,6 +13,8 @@ Graduate of:
 - A.A.S. Computer Info. Technology
 - B.S. Environmental Science and Research
 
+Past:
+- Too much to list..
 ___
 
 ## *Hobbies*
