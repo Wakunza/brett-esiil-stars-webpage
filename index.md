@@ -9,9 +9,9 @@ ___
 > Working as a Biological Technician at USDA-ARS in Mandan, North Dakota.
 >
 >Graduate of:
-> A.S. Pre-Engineering 
-> A.A.S. Computer Info. Technology
-> B.S. Environmental Science and Research
+> - A.S. Pre-Engineering 
+> - A.A.S. Computer Info. Technology
+> - B.S. Environmental Science and Research
 
 ___
 
