@@ -15,7 +15,6 @@ Graduate of:
 
 Past:
 - Too much to list..
-___
 
 ## *Hobbies*
 - Videogames
@@ -26,7 +25,6 @@ ___
 
 <img src="Mittens.jpg" width="175" height="275"> 
 
-___
 
 ### *Contact me @*
 <a href="https://github.com/Wakunza" target="_blank">**GitHub**</a>  
