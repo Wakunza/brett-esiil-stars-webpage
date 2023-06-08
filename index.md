@@ -24,7 +24,7 @@ ___
 - Anime
 - Tending to my 🐈, *Mittens*  
 
-> <img src="Mittens.jpg" width="175" height="275"> 
+<img src="Mittens.jpg" width="175" height="275"> 
 
 ___
 
