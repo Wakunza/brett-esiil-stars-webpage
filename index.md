@@ -1,7 +1,8 @@
 # Hey, I'm *Brett*.  
 <img src="Brett.jpg" width="275" height="275"> 
-*Past intern, current mentor, excited to give Python another shot! 🙃*
 
+Past intern, current mentor, excited to give Python another shot! 
+🙃
 ___
 
 ## *Education & Experience*
