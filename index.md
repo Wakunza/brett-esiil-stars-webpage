@@ -7,7 +7,7 @@ ___
 
 ## *Education & Experience*
 Currently: 
-- Working as a Biological Technician at USDA-ARS in Mandan, North Dakota.
+- Biological Technician at USDA-ARS in Mandan, North Dakota.
 
 Graduate of:
 - A.S. Pre-Engineering 
